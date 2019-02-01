@@ -5,7 +5,7 @@
 
 	<groupId>com.techprimers.springboot</groupId>
 	<artifactId>restdemo</artifactId>
-	<version></version>
+	<version>1</version>
 	<packaging>war</packaging>
 
 	<name>restdemoe</name>
